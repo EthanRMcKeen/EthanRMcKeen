@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello There 👋
 
 <!--
 **EthanRMcKeen/EthanRMcKeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a graduate from the University of British Columbia's Master's of Engineering program in the electrical and computer engineering department. My Master's focused on software engineering and machine learning.
